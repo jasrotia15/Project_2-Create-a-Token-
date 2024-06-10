@@ -1,5 +1,5 @@
 # Project_2: Create a Token
-This Solidity contract represents a basic token implementation. It allows for the minting and burning of tokens and tracks balances.
+This Solidity contract represents a basic token implementation. It allows for the minting and burning of tokens and tracks balances. 
 
 # Requirements
 The contract includes public variables for token details, such as the token name, abbreviation, and total supply. It maintains a mapping of addresses to token balances. It also features functions to mint and burn tokens with necessary validations.
